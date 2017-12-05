@@ -4,10 +4,9 @@ SEOTitle: 棫朴的博客 | Vito's Blog
 header-img: img/post-bg-desk.jpg
 email: alwaysbestLiu@gmail.com
 description: "He laughs best who laughs last."
-keyword: "Vito,Vito's Blog, 棫朴的博客, liuyukun, 刘玉坤, iOS, Apple, iPhone"
+keyword: "Vito,Vito's Blog, 棫朴的博客, liuyukun, 刘玉坤, Java, concurrent, hadoop"
 url: "http://carpediemliu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
