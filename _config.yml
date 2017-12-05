@@ -17,12 +17,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:   EngineerVitoLiu
+weibo_username:   EngineerVitoLiu
 zhihu_username:     
 github_username:    carpediemliu
 facebook_username:  liu.yukun.5
 jianshu_username:   
-#twitter_username:   alwaysbestLiu
+twitter_username:   alwaysbestLiu
 
 
 
