@@ -1,7 +1,7 @@
 # Site settings
 title: Vito's Blog
 SEOTitle: 棫朴的博客 | Vito's Blog
-header-img: img/bg.ico
+header-img: img/home-bg.jpg
 email: alwaysbestLiu@gmail.com
 description: "He laughs best who laughs last."
 keyword: "Vito,Vito's Blog, 棫朴的博客, liuyukun, 刘玉坤, Java, concurrent, hadoop"
@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stay hungry.Stay foolish."
-sidebar-avatar: /img/post_vito.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
