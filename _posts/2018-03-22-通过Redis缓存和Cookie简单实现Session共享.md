@@ -9,7 +9,9 @@ catalog: true
 tags:
     - 分布式
 ---
-** 大概的流程如下 **  
+
+** 大概的流程如下 **   
+
 ![hash](/img/sso-service.png)
 
 
