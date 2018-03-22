@@ -9,6 +9,10 @@ catalog: true
 tags:
     - 分布式
 ---
+** 大概的流程如下 **  
+![hash](/img/sso-service.png)
+
+
 ### 一、配置web.xml
 ```
 /webapp/WEB-INF/web.xml
@@ -48,6 +52,7 @@ tags:
 </mvc:interceptors>
 ......
 ```
+
 ### 三、自定义拦截器
 ```
 SessionCheckInterceptor.java

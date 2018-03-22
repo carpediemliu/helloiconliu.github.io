@@ -7,7 +7,7 @@
  /*!
  * Hux Blog v1.6.0 (http://startbootstrap.com)
  * Copyright 2016 @huxpro
- * Licensed under Apache 2.0 
+ * Licensed under Apache 2.0
  */
 
 // Tooltip Init
@@ -18,7 +18,7 @@
 
 
 // make all images responsive
-/* 
+/*
  * Unuse by Hux
  * actually only Portfolio-Pages can't use it and only post-img need it.
  * so I modify the _layout/post and CSS to make post-img responsive!
@@ -32,6 +32,7 @@ $(document).ready(function() {
     $("table").wrap("<div class='table-responsive'></div>");
     $("table").addClass("table");
 });
+
 
 // responsive embed videos
 $(document).ready(function() {
@@ -48,7 +49,7 @@ jQuery(document).ready(function($) {
     //primary navigation slide-in effect
     if ($(window).width() > MQL) {
         var headerHeight = $('.navbar-custom').height(),
-            bannerHeight  = $('.intro-header .container').height();     
+            bannerHeight  = $('.intro-header .container').height();
         $(window).on('scroll', {
                 previousTop: 0
             },
