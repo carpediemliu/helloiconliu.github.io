@@ -10,7 +10,7 @@ tags:
     - 分布式
 ---
 
-** 大概的流程如下 **   
+  <Strong>大概的流程如下</Strong>
 
 ![hash](/img/sso-service.png)
 
